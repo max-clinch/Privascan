@@ -1,4 +1,4 @@
-# Problem Statement: Addressing the Challenges in Identity Verification
+# Problem: Addressing the Challenges in Identity Verification
 
 The current landscape of identity verification is fraught with challenges that compromise user privacy, security, and efficiency. Traditional identity verification systems rely heavily on centralized databases and often require individuals to divulge excessive personal information, leading to an erosion of privacy. Additionally, these centralized approaches present a significant security risk, as they serve as attractive targets for malicious actors seeking to exploit or compromise vast amounts of sensitive data.
 
@@ -12,7 +12,7 @@ In light of these challenges, there is a pressing need to develop an innovative 
 
 The "Privascan" project aims to address the identified problems by providing a decentralized autonomous organization dedicated to revolutionizing identity verification through innovative technologies and a user-centric approach.
 
-# Solution Statement: Privascan - Decentralized Privacy-Preserving Identity Verification
+# Solution: Privascan - Decentralized Privacy-Preserving Identity Verification
 
 Privascan offers a robust solution to the existing challenges in identity verification by establishing a decentralized autonomous organization (DAO) focused on privacy-preserving identity verification. The project employs advanced blockchain technology, cryptographic methods, and a user-centric approach to redefine how identity is verified while prioritizing privacy, security, efficiency, and inclusivity.
 
