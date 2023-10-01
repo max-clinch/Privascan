@@ -1,9 +1,4 @@
-Privascan is an innovative decentralized autonomous organization (DAO) revolutionizing the identity verification landscape. It is designed to prioritize privacy, security, and efficiency, offering individuals a trusted and secure means to validate their identities while maintaining control over their personal information.
-
-Privascan is a cutting-edge club where technology and privacy join forces! Imagine it as your own VIP pass to a secure world where you get to verify your identity without giving away your secrets. It's all about putting you in control while ensuring your privacy and safety.
-
-
-# Problem: Addressing the Challenges in Identity Verification
+# Problem Statement: Addressing the Challenges in Identity Verification
 
 The current landscape of identity verification is fraught with challenges that compromise user privacy, security, and efficiency. Traditional identity verification systems rely heavily on centralized databases and often require individuals to divulge excessive personal information, leading to an erosion of privacy. Additionally, these centralized approaches present a significant security risk, as they serve as attractive targets for malicious actors seeking to exploit or compromise vast amounts of sensitive data.
 
